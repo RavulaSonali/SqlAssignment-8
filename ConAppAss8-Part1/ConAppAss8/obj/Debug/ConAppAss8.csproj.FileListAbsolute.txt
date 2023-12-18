@@ -1,0 +1,7 @@
+D:\Mphasis\SQL SERVER\18-12-2023\ConAppAss8\ConAppAss8\bin\Debug\ConAppAss8.exe.config
+D:\Mphasis\SQL SERVER\18-12-2023\ConAppAss8\ConAppAss8\bin\Debug\ConAppAss8.exe
+D:\Mphasis\SQL SERVER\18-12-2023\ConAppAss8\ConAppAss8\bin\Debug\ConAppAss8.pdb
+D:\Mphasis\SQL SERVER\18-12-2023\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.csproj.AssemblyReference.cache
+D:\Mphasis\SQL SERVER\18-12-2023\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.csproj.CoreCompileInputs.cache
+D:\Mphasis\SQL SERVER\18-12-2023\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.exe
+D:\Mphasis\SQL SERVER\18-12-2023\ConAppAss8\ConAppAss8\obj\Debug\ConAppAss8.pdb
